@@ -1,3 +1,4 @@
+<h1 align="center">霽月 (Seigetsu)</h1>
 
 <p align="left">
   <a href="https://github.com/Se1getsu/Se1getsu/">
@@ -15,6 +16,15 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/Se1getsu/contributions.svg" />
   </a>
 </p>
+
+## Hi there 👋
+
+- I'm a university student studying Swift with the goal of becoming an iOS developer.
+- Here is my portfolio: https://github.com/Se1getsu/portfolio
+
+## GitHub Stats
+
+
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
