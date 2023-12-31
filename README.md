@@ -20,7 +20,7 @@
 ## Hi there 👋
 
 - I'm a university student studying Swift with the goal of becoming an iOS developer.
-- My portfolio: https://github.com/Se1getsu/portfolio
+- Here is my portfolio: https://github.com/Se1getsu/portfolio
 
 ## GitHub Stats
 
