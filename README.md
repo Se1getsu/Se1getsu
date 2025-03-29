@@ -4,10 +4,11 @@
   <a href="https://github.com/Se1getsu/Se1getsu/">
     <img src="https://komarev.com/ghpvc/?username=Se1getsu" alt="Se1getsu" />
   </a>
-  <a href="http://twitter.com/Se1getsu">
-    <img height="20" src="https://img.shields.io/twitter/follow/Se1getsu?label=Twitter&logo=Twitter&style=flat" />
   <a href="https://github.com/Se1getsu">
     <img height="20" src="https://img.shields.io/github/followers/Se1getsu?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://x.com/Se1getsu">
+    <img height="20" src="https://img.shields.io/twitter/follow/Se1getsu?label=@Se1getsu&logo=X&style=social" />
   </a>
   <a href="http://qiita.com/Se1getsu">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Se1getsu/posts.svg" />
