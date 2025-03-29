@@ -20,8 +20,9 @@
 
 ## Hi there 👋
 
-- I'm a university student studying Swift with the goal of becoming an iOS developer.
-- Here is my portfolio: https://se1getsu.github.io/portfolio
+- 🎓 I'm a university student graduating in 2026.
+- 📱 I have secured a job as an iOS developer starting next year.
+- 🔗 Here is my portfolio: [se1getsu.github.io/portfolio](https://se1getsu.github.io/portfolio)
 
 ## GitHub Stats
 
