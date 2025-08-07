@@ -11,10 +11,12 @@
     <img height="20" src="https://img.shields.io/twitter/follow/Se1getsu?label=@Se1getsu&logo=X&style=social" />
   </a>
   <a href="http://qiita.com/Se1getsu">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Se1getsu/posts.svg" />
+<!--     <img height="20" src="https://qiita-badge.apiapi.app/s/Se1getsu/posts.svg" /> -->
+    <img height="20" src="https://img.shields.io/badge/Qiita%20posts-19%20posts-brightgreen" />
   </a>
   <a href="http://qiita.com/Se1getsu">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Se1getsu/contributions.svg" />
+<!--     <img height="20" src="https://qiita-badge.apiapi.app/s/Se1getsu/contributions.svg" /> -->
+    <img height="20" src="https://img.shields.io/badge/Qiita%20contributions-165-brightgreen" />
   </a>
 </p>
 
